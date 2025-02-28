@@ -19,3 +19,7 @@ Sou um programador Front-End apaixonado por tecnologia e desenvolvimento web. At
 - 🌍 **[Portfólio](#) _(Em construção)_**
 
 Sinta-se à vontade para explorar meus projetos e conectar-se comigo! 😃
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helioborges164&layout=compact&show_icons=true&theme=tokyonight)
+<br>
+[![Hélio' GitHub Stats](https://github-readme-stats.vercel.app/api?username=helioborges164&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
