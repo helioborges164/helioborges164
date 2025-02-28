@@ -1,4 +1,4 @@
-# :sunglasses: Olá, eu sou Hélio Borges!
+# :sunglasses: Olá, eu sou Hélio!
 
 Sou um programador Front-End apaixonado por tecnologia e desenvolvimento web. Atualmente, estou aprendendo e desenvolvendo projetos usando **HTML, CSS e JavaScript**, e em breve começarei a explorar **React.js** para criar interfaces interativas e dinâmicas.
 
