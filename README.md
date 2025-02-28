@@ -1,16 +1,21 @@
-## Hi there 👋
+# :sunglasses: Olá, eu sou Hélio Borges!
 
-<!--
-**helioborges164/helioborges164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um programador Front-End apaixonado por tecnologia e desenvolvimento web. Atualmente, estou aprendendo e desenvolvendo projetos usando **HTML, CSS e JavaScript**, e em breve começarei a explorar **React.js** para criar interfaces interativas e dinâmicas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias
+
+  - 🛠️ **HTML5
+  - 🎨 **CSS3
+  - 📌 **Aprendendo: JavaScript
+  - 🔜 **Em breve: React.js
+
+---
+
+## 📫 Como me encontrar?
+
+- 💼 [LinkedIn](www.linkedin.com/in/helio-borges-ferreira-fonseca)
+- 🌍 [Portfólio](#) _(Em construção)_
+
+Sinta-se à vontade para explorar meus projetos e conectar-se comigo! 😃
