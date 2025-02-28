@@ -15,7 +15,7 @@ Sou um programador Front-End apaixonado por tecnologia e desenvolvimento web. At
 
 ## 📫 Como me encontrar?
 
-- 💼 **<a href="www.linkedin.com/in/helio-borges-ferreira-fonseca">Linkedin</a>**
+- 💼 **<a href="[www.linkedin.com/in/helio-borges-ferreira-fonseca](https://www.linkedin.com/in/h%C3%A9lio-borges-ferreira-fonseca/)">Linkedin</a>**
 - 🌍 **[Portfólio](#) _(Em construção)_**
 
 Sinta-se à vontade para explorar meus projetos e conectar-se comigo! 😃
