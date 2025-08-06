@@ -1,6 +1,10 @@
-# :sunglasses: Olá, eu sou Hélio!
+# :sunglasses: Olá! Eu sou o Hélio
 
-Sou um programador Front-End apaixonado por tecnologia e desenvolvimento web. Atualmente, estou aprendendo e desenvolvendo projetos usando **HTML, CSS e JavaScript**, e em breve começarei a explorar **React.js** para criar interfaces interativas e dinâmicas.
+Sou um estudante de Front-End no DevClub, dedicado a criar interfaces de usuário funcionais e visualmente atraentes com HTML, CSS e JavaScript. Tenho um forte interesse em animações e técnicas de responsividade, que explorei no projeto "Happy Easter".
+
+Estou constantemente aprimorando minhas habilidades em programação e desenvolvimento web, mantendo um compromisso com a escrita de código limpo e eficiente. Estou à procura de desafios que me permitam aplicar e expandir meu conhecimento técnico.
+
+Estou sempre aberto a colaborações e novos projetos. Vamos nos conectar e criar algo incrível juntos!
 
 ---
 
@@ -15,7 +19,7 @@ Sou um programador Front-End apaixonado por tecnologia e desenvolvimento web. At
 
 ## 📫 Como me encontrar?
 
-- 💼 **[Linkedin](#) _(Em construção)_**
+- 💼 [Linkedin](https://www.linkedin.com/in/helio-borges-ferreira-fonseca/)
 - 🌍 **[Portfólio](#) _(Em construção)_**
 
 Sinta-se à vontade para explorar meus projetos e conectar-se comigo! 😃
