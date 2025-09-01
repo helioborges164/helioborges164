@@ -1,6 +1,6 @@
 # :sunglasses: Olá! Eu sou o Hélio
 
-Sou um estudante de Front-End no DevClub, dedicado a criar interfaces de usuário funcionais e visualmente atraentes com HTML, CSS e JavaScript. Tenho um forte interesse em animações e técnicas de responsividade, que explorei no projeto "Happy Easter".
+Sou Desenvolvedor Front-End, dedicado a criar interfaces de usuário funcionais e visualmente atraentes com HTML, CSS e JavaScript. Tenho um forte interesse em animações e técnicas de responsividade, que explorei no projeto "Happy Easter" e "Dragon Ball Z".
 
 Estou constantemente aprimorando minhas habilidades em programação e desenvolvimento web, mantendo um compromisso com a escrita de código limpo e eficiente. Estou à procura de desafios que me permitam aplicar e expandir meu conhecimento técnico.
 
