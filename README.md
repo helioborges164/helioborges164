@@ -9,7 +9,7 @@ Estou sempre aberto a colaborações e novos projetos. Vamos nos conectar e cria
 </p>
 <br>
 
-   <h2>💻 Tecnologias</h2>
+   <h2>💻 Habilidades Técnicas</h2>
    
   - 🧱 **HTML5**
   - 🎨 **CSS3**
@@ -27,7 +27,9 @@ Estou sempre aberto a colaborações e novos projetos. Vamos nos conectar e cria
  <h2>📫 Como me encontrar?</h2>
 
 - 💼 [Linkedin](https://www.linkedin.com/in/helio-borges-ferreira-fonseca/)
+- 📧 [E-mail](heliocontato26@gmail.com)
 - 🌍 **[Portfólio](#) _(Em construção)_**
+
 <br>
 <footer>
   <p>Sinta-se à vontade para explorar meus projetos e conectar-se comigo! 😃</p>
