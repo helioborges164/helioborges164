@@ -26,7 +26,7 @@ Estou sempre aberto a colaborações e novos projetos. Vamos nos conectar e cria
 
  <h2>📫 Como me encontrar?</h2>
 
-- 💼 [Linkedin](https://www.linkedin.com/in/helio-borges-ferreira-fonseca/)
+- 💼 [Linkedin](https://www.linkedin.com/in/helio-borges/)
 - 📧 [E-mail](heliocontato26@gmail.com)
 - 🌍 **[Portfólio](#) _(Em construção)_**
 
